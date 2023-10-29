@@ -1,10 +1,5 @@
 package com.zipcodewilmington.scientificcalculator;
 
-import com.zipcodewilmington.scientificcalculator.operations.*;
-
-import java.util.HashMap;
-import java.util.Map;
-
 public class MainApplication {
     public static void main(String[] args) {
         // Print a welcome message to the console.
